@@ -1,0 +1,6 @@
+.menu {
+    display: flex;
+    gap: 34px;
+    list-style-type: none;
+    padding: 28px 120px 28px 921px;
+}
